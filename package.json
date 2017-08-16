@@ -1,0 +1,29 @@
+{
+  "name": "didache",
+  "version": "0.0.1",
+  "description": "hapi seneca microservices",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zoe-1/didache.git"
+  },
+  "keywords": [
+    "hapi",
+    "seneca",
+    "microservice",
+    "docker"
+  ],
+  "author": "Jon Swenson",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/zoe-1/didache/issues"
+  },
+  "homepage": "https://github.com/zoe-1/didache#readme"
+}
